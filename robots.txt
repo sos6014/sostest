@@ -7,3 +7,6 @@ second change.
 =======
 ## kudotty add
 >>>>>>> origin/master
+
+ここから、undotestbranch。
+
