@@ -1,5 +1,9 @@
 User-agent: *
 Disallow: /
 
+<<<<<<< HEAD
 second change.
 
+=======
+## kudotty add
+>>>>>>> origin/master
