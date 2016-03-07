@@ -10,5 +10,3 @@ second change.
 
 ここから、undotestbranch。
 
-ここから、undotest2branchの内容。
-
